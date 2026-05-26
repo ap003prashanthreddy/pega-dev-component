@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="0.2.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/assets/components/platform-blueprint-component/0.2.11/blueprint-0.2.11-bundle.jar!/" />
+      <root url="jar://$PROJECT_DIR$/assets/components/platform-blueprint-component/0.2.11/blueprint-0.2.11-bundle-jakarta.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

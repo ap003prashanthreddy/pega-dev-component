@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="0.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/assets/components/cdh-blueprint-component/0.0.1/CDHBlueprintComponent-0.0.1-RAP.zip!/" />
+      <root url="jar://$PROJECT_DIR$/assets/components/cdh-blueprint-component/0.0.1/CDHBlueprintComponent-0.0.1-RAP.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
