@@ -114,6 +114,60 @@
                     ]
                 }
             ]
+        },
+        {
+            "name": "GenAI Component",
+            "package": "platform-genai-component",
+            "versions": [
+                {
+                    "platformVersion": "24.1.0",
+                    "latestVersion": "0.0.18",
+                    "updateDate": "2026-05-26",
+                    "binaries": [
+                        {
+                            "name": "MAIN",
+                            "url": "https://pegasystems.github.io/pega-dev-components/assets/components/platform-genai-component/0.0.18/genai-0.0.18-bundle-24.1.jar?download="
+                        }
+                    ],
+                    "documentation": []
+                },
+                {
+                    "platformVersion": "24.2.0",
+                    "latestVersion": "0.0.18",
+                    "updateDate": "2026-05-26",
+                    "binaries": [
+                        {
+                            "name": "MAIN",
+                            "url": "https://pegasystems.github.io/pega-dev-components/assets/components/platform-genai-component/0.0.18/genai-0.0.18-bundle-24.2.jar?download="
+                        }
+                    ],
+                    "documentation": []
+                },
+                {
+                    "platformVersion": "25.1.0",
+                    "latestVersion": "0.0.18",
+                    "updateDate": "2026-05-26",
+                    "binaries": [
+                        {
+                            "name": "MAIN",
+                            "url": "https://pegasystems.github.io/pega-dev-components/assets/components/platform-genai-component/0.0.18/genai-0.0.18-bundle-25.1.jar?download="
+                        }
+                    ],
+                    "documentation": []
+                },
+                {
+                    "platformVersion": "26.1.0",
+                    "latestVersion": "0.0.18",
+                    "updateDate": "2026-05-26",
+                    "binaries": [
+                        {
+                            "name": "MAIN",
+                            "url": "https://pegasystems.github.io/pega-dev-components/assets/components/platform-genai-component/0.0.18/genai-0.0.18-bundle-26.1.jar?download="
+                        }
+                    ],
+                    "documentation": []
+                }
+            ]
         }
     ]
 }
