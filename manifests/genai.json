@@ -1,6 +1,6 @@
 {
   "app_name": "genai",
-  "package": "platform-genai-component",
+  "package": "AI-Authoring-Rules",
   "platforms": [
     "24.1.0",
     "24.2.0",
@@ -37,7 +37,7 @@
     ]
   },
   "catalog": {
-    "repo_root": "/home/sartm/code/component-catalog/pega-dev-components",
+    "repo_root": "/home/ap003/PegaInfinity26/pega-dev-components",
     "index_file": "index.json",
     "asset_path_template": "assets/components/{PACKAGE}/{VERSION}/"
   },

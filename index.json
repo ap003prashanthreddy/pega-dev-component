@@ -117,7 +117,7 @@
         },
         {
             "name": "GenAI Component",
-            "package": "platform-genai-component",
+            "package": "AI-Authoring-Rules",
             "versions": [
                 {
                     "platformVersion": "24.1.0",
@@ -126,7 +126,7 @@
                     "binaries": [
                         {
                             "name": "MAIN",
-                            "url": "https://pegasystems.github.io/pega-dev-components/assets/components/platform-genai-component/0.0.18/genai-0.0.18-bundle-24.1.jar?download="
+                            "url": "https://ap003prashanthreddy.github.io/pega-dev-component/assets/components/AI-Authoring-Rules/0.0.18/genai-0.0.18-bundle-24.1.jar?download="
                         }
                     ],
                     "documentation": []
@@ -138,7 +138,7 @@
                     "binaries": [
                         {
                             "name": "MAIN",
-                            "url": "https://pegasystems.github.io/pega-dev-components/assets/components/platform-genai-component/0.0.18/genai-0.0.18-bundle-24.2.jar?download="
+                            "url": "https://ap003prashanthreddy.github.io/pega-dev-component/assets/components/AI-Authoring-Rules/0.0.18/genai-0.0.18-bundle-24.2.jar?download="
                         }
                     ],
                     "documentation": []
@@ -150,7 +150,7 @@
                     "binaries": [
                         {
                             "name": "MAIN",
-                            "url": "https://pegasystems.github.io/pega-dev-components/assets/components/platform-genai-component/0.0.18/genai-0.0.18-bundle-25.1.jar?download="
+                            "url": "https://ap003prashanthreddy.github.io/pega-dev-component/assets/components/AI-Authoring-Rules/0.0.18/genai-0.0.18-bundle-25.1.jar?download="
                         }
                     ],
                     "documentation": []
@@ -162,7 +162,7 @@
                     "binaries": [
                         {
                             "name": "MAIN",
-                            "url": "https://pegasystems.github.io/pega-dev-components/assets/components/platform-genai-component/0.0.18/genai-0.0.18-bundle-26.1.jar?download="
+                            "url": "https://ap003prashanthreddy.github.io/pega-dev-component/assets/components/AI-Authoring-Rules/0.0.18/genai-0.0.18-bundle-26.1.jar?download="
                         }
                     ],
                     "documentation": []
